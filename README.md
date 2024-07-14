@@ -29,6 +29,6 @@ Feel free to open issues or submit pull requests with improvements and suggestio
 
 Love coding! 
 
-For more details, visit the [30 Days of JavaScript Challenge](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) page.
+For more details, visit the [30 Days of JavaScript Challenge](https://courses.chaicode.com/learn/30-days-of-Javascript-challenge) page.
 
 ---
